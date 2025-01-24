@@ -1,4 +1,7 @@
-# Hint: pip install ...?
+# Currently, both the blue rectangle and the red circle are drawn on top of each other.
+# To achieve the goal of revealing the red circle while keeping the blue rectangle visible:
+# Think about how you can adjust the order of the shapes, or their visibility.
+
 import tkinter as tk
 
 window = tk.Tk()
