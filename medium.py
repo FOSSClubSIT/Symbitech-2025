@@ -1,5 +1,4 @@
-# There is an issue with the way input is handled. What could be the reason??
-# so the program may not be performing calculations correctly. There are also other issues with this code...can you find them??
+# The program may not be performing calculations correctly. There are a lot of other issues with this code...can you find them??
 
 def calculator():
     print("Welcome to the Misbehaving Calculator!")
