@@ -1,4 +1,5 @@
-# Basic threading problem...the final counter value is not correct...find out what is missing in this code
+# There's an issue with the final counter value not being correct.
+# Hint: The problem here lies in how threads are accessing and modifying the counter variable.
 import threading
 
 counter = 0
